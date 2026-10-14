@@ -1,0 +1,7 @@
+# Backend and training
+torch>=2.5
+torchvision>=0.20
+flask
+flask-cors
+pillow
+numpy
