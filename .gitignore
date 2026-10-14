@@ -1,0 +1,23 @@
+# Dataset and archives (too big for GitHub)
+dataset/
+*.zip
+
+# Trained model weights (share them through GitHub Releases or Google Drive instead)
+*.pth
+*.pt
+*.h5
+*.keras
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+
+# Node / React
+node_modules/
+frontend/build/
+
+# Editor
+.vscode/
